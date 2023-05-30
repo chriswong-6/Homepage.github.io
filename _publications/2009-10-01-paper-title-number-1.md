@@ -3,7 +3,7 @@ title: "Synthesis and Performance Analysis of Deep Learning Model in Serverless 
 collection: Thesis
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The theis is my undergraduate thesis'
-date: 2022-06
+date: 2022-06-01
 
 paperurl: 'https://github.com/chriswong-6/Bachelor-Project/blob/main/ServerlessComputing_WangHaocheng.pdf'
 
