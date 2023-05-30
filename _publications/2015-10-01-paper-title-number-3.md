@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Applications of the Decentralized Finance (DeFi) on the Ethereum"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This paper is first attempt to publication in undergraduate'
+date: 2022-04-01
+venue: '2022 IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC)'
+paperurl: 'https://ieeexplore.ieee.org/document/9777543'
+citation: 'H. Teng, W. Tian, H. Wang and Z. Yang, "Applications of the Decentralized Finance (DeFi) on the Ethereum," 2022 IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC), Dalian, China, 2022, pp. 573-578, doi: 10.1109/IPEC54454.2022.9777543.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is first attempt to publication in undergraduate.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9777543)
 
 Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
