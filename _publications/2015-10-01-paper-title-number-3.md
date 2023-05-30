@@ -12,4 +12,4 @@ This paper is first attempt to publication in undergraduate.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9777543)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: H. Teng, W. Tian, H. Wang and Z. Yang, "Applications of the Decentralized Finance (DeFi) on the Ethereum," 2022 IEEE Asia-Pacific Conference on Image Processing, Electronics and Computers (IPEC), Dalian, China, 2022, pp. 573-578, doi: 10.1109/IPEC54454.2022.9777543.
