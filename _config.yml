@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Haocheng Wang"
 title_separator          : "-"
 name                     : &name "Haocheng Wang"
 description              : &description "personal description"
