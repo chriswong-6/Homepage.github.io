@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Haocheng Wang(王浩丞) HomePage"
-excerpt: "About me"
+excerpt: "Haocheng Wang"
 author_profile: true
 redirect_from: 
   - /about/
