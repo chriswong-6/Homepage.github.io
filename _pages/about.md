@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! My name is Haocheng Wang(王浩丞).
+I got B.S. form Macau University of Science and Technology in 2022 and start my master's degree in 2022 Fall at the University of Pittsburgh. My interested area is in Cloud Computing, Serverless, Scalable/Resilient System and Blockchain. 
 Welcome! My name is Haocheng Wang(王浩丞). I got B.S. form Macau University of Science and Technology and current student at the University of Pittsburgh. My interested area is in Cloud Computing, Serverless, Scalable/Resilient System and Blockchain. 
 
 2024 Fall Phd application
