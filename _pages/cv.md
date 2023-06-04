@@ -13,9 +13,9 @@ redirect_from:
 
 I interested in using technology to solve real-life problems 
 
-<font size=6>Network Data Camouflage</font>
+<font size=5>Network Data Camouflage</font>
 
-When I was in high school, I am intersted in VPN. The Trojan is particularly popular encryption protocols at that time. I use IaaS to be a site and disguise transmission data as video format. After that, I optimize and customize software client in different platform mostly in linux and its derivative system becasue of inaccurate identification of data diversion. 
+When I was in high school, I am intersted in Virtual Private Network. The Trojan is particularly popular encryption protocols at that time. I use IaaS to be a site and disguise transmission data as video format. After that, I optimize and customize software client in different platform mostly in linux and its derivative system becasue of inaccurate identification of data diversion. 
 
 
 
