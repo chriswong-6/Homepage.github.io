@@ -21,10 +21,10 @@ When I was in high school, I am intersted in VPN. The Trojan is particularly pop
 
 
 <font size=4>Network Performance Optimization</font>
-In spare time of college, I working for 
+In spare time of college, I am intersted in optimizing LAN performance.
 I was captivated
 
-
+# Network Performance Optimization
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
