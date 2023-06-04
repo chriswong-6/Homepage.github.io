@@ -13,7 +13,7 @@ redirect_from:
 
 I interested in using technology to solve real-life problems 
 
-Network Data Camouflage
+#Network Data Camouflage
 ======
 * Summer 2015: Research Assistant
   * Github University
