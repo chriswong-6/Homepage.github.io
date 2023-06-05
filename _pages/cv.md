@@ -20,8 +20,8 @@ When I was in high school, I am intersted in Virtual Private Network. The Trojan
 
 
 
-<font size=4>Network Performance Optimization</font>
-In spare time of college, I am intersted in optimizing LAN performance.
+<font size=5>Network Performance Optimization</font>
+In spare time of college, I was intersted in optimizing LAN performance. At the time when WIFI6 was being commercialized, I searched many technical document related to technical details such as MU-MIMO, OFDMA. The transmission of LAN is limited by the network equipment proformance and non-customization, that's how I got in touch with using sigle-chip machine or PC to be the customized network devices. In customized software-based router, because of mutiple system conflict, schedule and cooperation, I was addicted to it. 
 I was captivated
 
 # Network Performance Optimization
