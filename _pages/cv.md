@@ -25,7 +25,7 @@ In spare time of college, I was intersted in optimizing LAN performance. At the 
 https://github.com/chriswong-6/Homepage.github.io/blob/master/_pages/11.png
 _pages/11.png
 ![](_pages/11.png)
-
+<img src="_pages/11.png"/>
 
 # Network Performance Optimization
 <!-- * Summer 2015: Research Assistant
