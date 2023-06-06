@@ -23,7 +23,9 @@ When I was in high school, I am intersted in Virtual Private Network. The Trojan
 <font size=5>Network Performance Optimization</font>
 In spare time of college, I was intersted in optimizing LAN performance. At the time when WIFI6 was being commercialized, I searched many technical document related to technical details such as MU-MIMO, OFDMA. The transmission of LAN is limited by the network equipment proformance and non-customization, that's how I got in touch with using sigle-chip machine or PC to be the customized network devices. In customized software-based router, because of mutiple system conflict, schedule and cooperation, I was addicted to it. Moreover, I created a personal video library and file sharing system based on Network Attached Storage to make fun from network. 
 
-![11](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/11.png = 30x30)![a] (https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/a.jpg = 30x30)![b] (https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/b.jpg = 30x30)
+![11](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/11.png = 30x30)
+![a](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/a.jpg = 30x30)
+![b](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/b.jpg = 30x30)
 
 
 
