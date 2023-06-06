@@ -28,7 +28,9 @@ In spare time of college, I was intersted in optimizing LAN performance. At the 
 ![b](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/b.JPG){:height="500" width="500"}
 
 
-# Network Performance Optimization
+<font size=5>Blockchain</font>
+In 2019, Bitcoin and blockchain became more and more popular. I used to be a miner of bitcoin and interested in Ethereum. Nowadays I am being a member of DAO to participate in maintenance work. 
+
 <!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
@@ -39,7 +41,7 @@ In spare time of college, I was intersted in optimizing LAN performance. At the 
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub -->
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -68,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
