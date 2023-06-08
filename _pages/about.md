@@ -14,7 +14,7 @@ I got B.S. form Macau University of Science and Technology in 2022 and start my 
 
 2024 Fall Phd application
 ======
-I am looking for prospective Phd degree in 2024 fall! I also looking for research opportunities in the area of cloud computing, network or resilient/scalable system for volunteer. If you need RA, send email to me please. 
+I am looking for prospective Phd degree in 2024 fall! I also looking for research opportunities in the area of cloud computing, network or resilient/scalable system for volunteer. If you need RA, feel free to contact me via email. 
 
 
 
