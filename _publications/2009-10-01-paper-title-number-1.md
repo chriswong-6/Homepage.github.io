@@ -4,7 +4,7 @@ collection: Thesis
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'The theis is my undergraduate thesis'
 date: 2022-06-01
-venue: 'June 2022'
+venue:
 paperurl: 'https://github.com/chriswong-6/Bachelor-Project/blob/main/ServerlessComputing_WangHaocheng.pdf'
 
 ---
