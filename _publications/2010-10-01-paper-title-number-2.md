@@ -4,7 +4,7 @@ collection: Thesis
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'The thesis is my independent study report'
 date: 2023-5-01
-venue: 'May 2023'
+venue: 'May'
 paperurl: 'https://github.com/chriswong-6/TimeLock-Release-dapp/blob/main/Independent_Study.pdf'
 
 ---
