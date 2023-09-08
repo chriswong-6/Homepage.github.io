@@ -8,6 +8,6 @@ venue: 'June'
 paperurl: 'https://pitt-my.sharepoint.com/:b:/g/personal/haw188_pitt_edu/EZwaGCTaC-hEkCWSbfIg3vYBBOS2Vj8gMw1bguZ2BrOkwA?e=hAdKH1'
 
 ---
-The theis is my undergraduate thesis. Title: Synthesis and Performance Analysis of Deep Learning Model in Serverless Computing
+To be Submitted
 [Download paper here](https://pitt-my.sharepoint.com/:b:/g/personal/haw188_pitt_edu/EZwaGCTaC-hEkCWSbfIg3vYBBOS2Vj8gMw1bguZ2BrOkwA?e=hAdKH1))
 
