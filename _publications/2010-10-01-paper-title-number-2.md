@@ -8,7 +8,7 @@ venue: 'May'
 paperurl: 'https://github.com/chriswong-6/TimeLock-Release-dapp/blob/main/Independent_Study.pdf'
 
 ---
-The thesis is my independent study report
+The thesis is my independent study report. Full edition in the review stage.
 
 [Download paper here](https://github.com/chriswong-6/TimeLock-Release-dapp/blob/main/Independent_Study.pdf)
 
