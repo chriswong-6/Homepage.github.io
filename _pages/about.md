@@ -14,7 +14,7 @@ I got the B.S. major in computer technology and application form Macau Universit
 
 2024 Fall Phd application
 ======
-I expect to graduate in May 2024 and am looking for prospective Ph.D. programs for the fall of 2024. I also looking for research opportunities in the area of cloud computing, network or resilient/scalable system for volunteer. If you need RA, feel free to contact me via email. 
+I expect to graduate in May 2024 and am looking for prospective Ph.D. programs in 2024 Fall. I also looking for research opportunities in the area of cloud computing, network or resilient/scalable system for volunteer. If you need RA, feel free to contact me via email. 
 
 
 
