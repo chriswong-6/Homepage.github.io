@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! My name is Haocheng Wang(王浩丞).
+Welcome! My name is Haocheng Wang (王浩丞).
 I got the B.S. major in computer technology and application form Macau University of Science and Technology in 2022 and start my master's degree in 2022 Fall at the University of Pittsburgh. My interested area is in Cloud Computing, Scalable/Resilient System, Blockchain and Security. I also have the background of ml, you can get more details from my CV.
 
 
