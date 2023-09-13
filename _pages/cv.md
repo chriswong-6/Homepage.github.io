@@ -25,7 +25,7 @@ In spare time of college, I was intersted in optimizing LAN performance. At the 
 
 
 ![a](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/a.JPG){:height="300" width="300"}
-![b](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/b.JPG){:height="500" width="300"}
+<!-- ![b](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/b.JPG){:height="500" width="300"} -->
 ![c](https://github.com/chriswong-6/Homepage.github.io/raw/master/_pages/c.jpg){:height="300" width="300"}
 
 
